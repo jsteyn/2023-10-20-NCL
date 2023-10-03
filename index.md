@@ -18,6 +18,8 @@ helper: ["Dr. Jannetta Steyn", "Zeyneb Aki", "Elizabeth O Oladapo", "Karen Bower
 email: ["jannetta.steyn@newcastle.ac.uk"]
 collaborative_notes: https://hackmd.io/@rseteam-ncl/2023-03-14-NCL
 eventbrite:  
+---
+
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
 
 {% comment %}
